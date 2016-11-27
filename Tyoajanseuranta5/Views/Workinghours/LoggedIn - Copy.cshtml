@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "LoggedIn";
+}
+
+@if (Session["UserID"] != null)
+{
+    <p></p>
+    <p><a href="../Workinghours/AddStartTime" class="btn btn-primary btn-group-justified btn-success">Start</a></p>
+    <p><a href="../Workinghours/AddEndTime" class="btn btn-primary btn-group-justified btn-danger">End</a></p>
+    <p></p>
+    <h3>Hello @Session["Username"].ToString()!</h3>
+    <h4>@ViewBag.InTimeMessage</h4>
+    <h4>@ViewBag.OutTimeMessage</h4>
+}

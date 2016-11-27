@@ -1,0 +1,112 @@
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\ApplicationInsights.config
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\csc.exe
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\System.Collections.Immutable.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\vbc.exe
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\VBCSCompiler.exe
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\roslyn\VBCSCompiler.exe.config
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Tyoajanseuranta5.dll.config
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Tyoajanseuranta5.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Tyoajanseuranta5.pdb
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Antlr3.Runtime.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\EntityFramework.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\EntityFramework.SqlServer.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.Web.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.WindowsServer.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.ApplicationInsights.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Newtonsoft.Json.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Helpers.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Mvc.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Optimization.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Razor.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.WebPages.Deployment.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.WebPages.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.WebPages.Razor.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\WebGrease.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\EntityFramework.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\EntityFramework.SqlServer.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.Web.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.AI.WindowsServer.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.ApplicationInsights.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Helpers.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Mvc.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Optimization.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.Razor.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.WebPages.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.WebPages.Deployment.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\System.Web.WebPages.Razor.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Antlr3.Runtime.pdb
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\bin\Newtonsoft.Json.xml
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\obj\Debug\Tyoajanseuranta5.dll
+c:\users\seba\documents\visual studio 2015\Projects\Tyoajanseuranta5\Tyoajanseuranta5\obj\Debug\Tyoajanseuranta5.pdb
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\ApplicationInsights.config
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\csc.exe
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\vbc.exe
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Tyoajanseuranta5.dll.config
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Tyoajanseuranta5.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Tyoajanseuranta5.pdb
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Antlr3.Runtime.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\EntityFramework.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\EntityFramework.SqlServer.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.Web.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Newtonsoft.Json.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Helpers.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Mvc.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Optimization.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Razor.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.WebPages.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.WebPages.Razor.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\WebGrease.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\EntityFramework.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\EntityFramework.SqlServer.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.Web.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Helpers.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Mvc.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Optimization.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.Razor.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.WebPages.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\System.Web.WebPages.Razor.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Antlr3.Runtime.pdb
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\bin\Newtonsoft.Json.xml
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\obj\Debug\Tyoajanseuranta5.dll
+C:\Users\Seba\Documents\GitHub\Tyoajanseuranta\Tyoajanseuranta5\obj\Debug\Tyoajanseuranta5.pdb
